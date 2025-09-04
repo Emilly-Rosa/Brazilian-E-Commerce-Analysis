@@ -67,5 +67,6 @@ Os seguintes passos foram realizados no **Google Colab**:
 * 🔍 Análise exploratória inicial (visão geral dos dados sujos e inconsistências)
 * 🔗 Integração: junção das diferentes tabelas em uma única base consolidada
 * 🧹 Tratamento de dados: exclusão de colunas não pertinentes, tratamento de valores nulos e conversão de colunas de datas
-
+* 🧩 Engenharia de Features: criar novas colunas úteis a partir das existentes (ex.: lead time, atraso vs. estimado, valor total do pedido, faixa de ticket, D+ prazos, sazonalidade por mês/semana).
+* 📈 Perguntas e Respostas: responder às perguntas do stakeholder com métricas e gráficos para identificar padrões e insights.
 
